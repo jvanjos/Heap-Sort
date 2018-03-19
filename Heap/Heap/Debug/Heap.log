@@ -1,0 +1,5 @@
+﻿  Heap.cpp
+c:\users\jvanj\source\repos\heap\heap\heap.cpp(141): warning C4101: 'aux': variável local não referenciada
+c:\users\jvanj\source\repos\heap\heap\heap.cpp(141): warning C4101: 'j': variável local não referenciada
+c:\users\jvanj\source\repos\heap\heap\heap.cpp(141): warning C4101: 'i': variável local não referenciada
+  Heap.vcxproj -> C:\Users\jvanj\source\repos\Heap\Debug\Heap.exe
